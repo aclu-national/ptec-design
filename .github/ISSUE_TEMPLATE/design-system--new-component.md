@@ -1,7 +1,7 @@
 ---
 name: 'Design System: NEW Component'
 about: Suggest an idea for a new component to add to our Design System.
-title: "[NEW COMPONENT]"
+title: "[NEW COMPONENT]:"
 labels: ''
 assignees: ''
 

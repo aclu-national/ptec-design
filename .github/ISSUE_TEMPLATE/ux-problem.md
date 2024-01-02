@@ -1,7 +1,7 @@
 ---
 name: UX Problem
 about: Identify and propose how to address a UX problem
-title: "[UX]"
+title: "[UX]:"
 labels: ''
 assignees: ''
 

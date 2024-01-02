@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report that relates to a DESIGN bug
-title: "[BUG]"
+title: "[BUG]:"
 labels: ''
 assignees: ''
 

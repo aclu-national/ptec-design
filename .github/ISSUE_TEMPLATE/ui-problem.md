@@ -1,7 +1,7 @@
 ---
 name: UI Problem
 about: Identify and propose how to address a UI problem
-title: "[UI]"
+title: "[UI]:"
 labels: ''
 assignees: ''
 

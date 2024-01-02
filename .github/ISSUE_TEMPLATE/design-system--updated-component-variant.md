@@ -2,7 +2,7 @@
 name: 'Design System: UPDATED Component/Variant'
 about: Suggest an idea for an update to/new variant of an existing component in our
   Design Sytem
-title: "[UPDATE COMPONENT]"
+title: "[UPDATE COMPONENT]:"
 labels: ''
 assignees: ''
 
